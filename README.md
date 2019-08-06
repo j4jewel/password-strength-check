@@ -1,11 +1,15 @@
 # password-strength-check
+
 This is simple python code for password strength check of a inputed password. 
-You can decide the required password strength by editing the below values
+
+### You can decide the required password strength by editing the below values
 ---
+```sh
 min_length = 8
 min_digit = 2
 min_alpha = 3
 min_special = 2
+```
 ---
 Code
 ---
